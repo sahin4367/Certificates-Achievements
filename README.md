@@ -19,3 +19,9 @@ Aşağıda siyahı var, faylları isə `certificates/` qovluğunda yerləşdirmi
 - Udemy(Networking  Network Fundamentals, Wireshark & Packet Tracer): https://www.udemy.com/certificate/UC-ca34d51b-ec00-4496-b0dd-dae21f4ddab1/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com
 - Cisco Networking Academy(JavaScript Essentials 1): https://www.credly.com/badges/5cd253fa-7eeb-47f8-91ff-b65e191d2227/public_url
 - Coursera(Software Engineering): https://www.credly.com/badges/b946dacd-b240-4962-be00-99c7563d8be1
+---
+
+-Huawei Talent Ict Academy
+<img width="2480" height="3507" alt="CloudComputing-HCIA" src="https://github.com/user-attachments/assets/33ad006d-acae-451b-9a50-6a8040842261" />
+<img width="2480" height="3507" alt="CloudService-HCIA" src="https://github.com/user-attachments/assets/177723a0-b93d-4584-afa3-986fe2c368d9" />
+
